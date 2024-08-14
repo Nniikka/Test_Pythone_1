@@ -16,3 +16,4 @@ Xyro
 minotauro
 red tree
 mikoto
+joke #1

@@ -19,3 +19,4 @@ mikoto
 joke #1
 ReliGAS
 TiRAX
+Spell

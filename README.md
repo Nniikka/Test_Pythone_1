@@ -41,3 +41,4 @@ ghost
 Intey
 BQ
 pocket PC
+penalty

@@ -42,3 +42,4 @@ Intey
 BQ
 pocket PC
 penalty
+soft

@@ -52,3 +52,4 @@ sonic
 Team Liquid
 DJ
 EIGEN
+ZR0

@@ -64,3 +64,4 @@ message
 thx
 pet
 kozel
+color

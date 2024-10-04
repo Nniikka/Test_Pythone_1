@@ -65,3 +65,4 @@ thx
 pet
 kozel
 color
+timer

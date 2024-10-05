@@ -66,3 +66,4 @@ pet
 kozel
 color
 timer
+moon

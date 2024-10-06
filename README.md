@@ -67,3 +67,4 @@ kozel
 color
 timer
 moon
+crazy zombie

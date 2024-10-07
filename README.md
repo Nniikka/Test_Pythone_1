@@ -68,3 +68,4 @@ color
 timer
 moon
 crazy zombie
+cryptoDJ

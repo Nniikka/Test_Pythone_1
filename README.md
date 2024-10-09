@@ -70,3 +70,4 @@ moon
 crazy zombie
 cryptoDJ
 crocodile
+new game

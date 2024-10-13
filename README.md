@@ -73,3 +73,4 @@ crocodile
 new game
 nice 
 circle
+until dawn

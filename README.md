@@ -74,3 +74,4 @@ new game
 nice 
 circle
 until dawn
+angel

@@ -75,3 +75,4 @@ nice
 circle
 until dawn
 angel
+calc

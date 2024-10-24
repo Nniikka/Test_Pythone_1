@@ -84,3 +84,4 @@ expo
 tango
 zic
 ipx
+farcana

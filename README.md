@@ -85,3 +85,4 @@ tango
 zic
 ipx
 farcana
+spell prism

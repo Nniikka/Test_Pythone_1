@@ -86,3 +86,4 @@ zic
 ipx
 farcana
 spell prism
+hitch

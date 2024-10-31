@@ -91,3 +91,4 @@ Opera
 flux
 jet
 xbox & sony ps
+pick

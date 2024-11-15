@@ -106,3 +106,4 @@ spirit
 zoo
 mommy
 check point
+panic

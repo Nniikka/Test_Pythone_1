@@ -119,3 +119,4 @@ income
 wife
 Perth
 pokerOK
+SOL
